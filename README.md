@@ -1,0 +1,2 @@
+# local_wp_setup
+WordPressのローカル環境セットアップ用のシステムです。
