@@ -7,6 +7,7 @@
 - [Node.js](https://nodejs.org/)
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 
+<br>
 
 ## ❷ `.env` ファイルの作成
 
@@ -36,6 +37,7 @@ WP_THEME_AUTHOR
 > `WP_THEME_DIR_NAME` は使用するテーマのディレクトリ名を指定してください。
 > テーマの作成者は社名で OK です。
 
+<br>
 
 ## ❸ セットアップの実行
 
@@ -48,7 +50,7 @@ node setup.js  // 開発環境のセットアップ
 
 ローカルの WordPress 開発環境が構築されました！
 
-
+<br>
 
 ## ❹ 使用できるコマンド一覧
 
@@ -61,6 +63,7 @@ npm run build     # SASS/JS のビルド
 npm run command ~ # その他 npm コマンドの実行
 ```
 
+<br>
 
 ## 補足
 
